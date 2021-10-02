@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam", "Exam\Exam.csproj", "{B0B2B9D8-0D20-4C5E-86F6-9C51B42CC73F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam1", "Exam1\Exam1.csproj", "{F1C6856E-6561-420E-BEEF-2341812EB327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam2", "Exam2\Exam2.csproj", "{2DFC58A2-D0C8-4913-89DD-984F554D65D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0B2B9D8-0D20-4C5E-86F6-9C51B42CC73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B2B9D8-0D20-4C5E-86F6-9C51B42CC73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B2B9D8-0D20-4C5E-86F6-9C51B42CC73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B2B9D8-0D20-4C5E-86F6-9C51B42CC73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C6856E-6561-420E-BEEF-2341812EB327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C6856E-6561-420E-BEEF-2341812EB327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C6856E-6561-420E-BEEF-2341812EB327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C6856E-6561-420E-BEEF-2341812EB327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DFC58A2-D0C8-4913-89DD-984F554D65D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFC58A2-D0C8-4913-89DD-984F554D65D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFC58A2-D0C8-4913-89DD-984F554D65D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFC58A2-D0C8-4913-89DD-984F554D65D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
